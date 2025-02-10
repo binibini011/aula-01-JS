@@ -18,6 +18,9 @@ console.log('Nome do aluno:' + nomeAluno + ' RM do aluno:' +rmAluno)
 console.log(`Nome do aluno ${nomeAluno} Rm do aluno ${rmAluno}`)
 
 turmaAluno ='3A'
-console.log(`Turma do aluno: ${turmaAluno}`);
+console.log(`Turma do aluno: ${turmaAluno}`); 
+
+
+ console.log ('alterando o arquivo JS, executando um novo')
 
 
